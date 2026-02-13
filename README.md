@@ -8,6 +8,5 @@ Clone this repo into `<your-vault>/.obsidian/plugins/` or download as ZIP and mo
 #### Happy valentines
 :)
 
-
 # Credit
 Editied from: sample plugin for Obsidian (https://obsidian.md).
